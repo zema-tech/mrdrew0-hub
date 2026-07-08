@@ -1,0 +1,20 @@
+# Sensitive files
+config.json
+*.env
+.env
+.env.local
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependencies
+node_modules/
+npm-debug.log
